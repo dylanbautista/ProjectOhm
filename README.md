@@ -8,6 +8,6 @@ The Ohm Project is a chip design and verification EDA software initiative that a
 
 ### Agentic AI from the ground up
 
-### Tight Verification and Design Workflows
+### Tight Design and Verification Workflows
 
 ### Multi-environment developement
