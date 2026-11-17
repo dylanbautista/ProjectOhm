@@ -20,7 +20,11 @@ qt_standard_project_setup()
 
 # Application executable
 qt_add_executable(Ohm
-    src/main.cpp
+    src/app/main.cpp
+    src/app/Application.h
+    src/app/Application.cpp
+    src/presentation/MainWindow.h
+    src/presentation/MainWindow.cpp
 )
 
 # Link dependencies
